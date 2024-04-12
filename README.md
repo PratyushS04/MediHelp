@@ -1,6 +1,6 @@
 # 🌟 Welcome to MediHelp 💊
 
-MediHelp is your comprehensive solution for retrieving information and generating text directly from images of medicine packaging. Powered by cutting-edge technologies including PaddleOCR, Mistral, and LangChain, MediHelp provides invaluable insights into medications, including side effects, causes, and uses.
+MediHelp is your comprehensive solution for retrieving information and generating text directly from images of medicine packaging. Powered by cutting-edge technologies including PaddleOCR, Mistral, and LangChain. MediHelp provides invaluable insights into medications, including side effects, causes, and uses.
 
 ## 📚 Features
 - **Image-to-Text Conversion:** Utilize PaddleOCR to extract text from medicine packaging images.
